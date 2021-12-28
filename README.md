@@ -1,8 +1,8 @@
-# first_todo
+# First_todo_app
 
-A new Flutter project.
+An implementation of a Todo app in Flutter.
 
-## Getting Started
+## Getting started
 
 This project is a starting point for a Flutter application.
 
